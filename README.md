@@ -33,8 +33,14 @@ HelloExpo 프로젝트
 ### 프로젝트 실행
 ```
 - expo start
+- 실행 후 w 클릭 시 웹에서도 동작 확인 가능
 ```
 ### MaterialBottomTabNavigator 라이브러리 추가
 ```
 - npm install @react-navigation/material-bottom-tabs react-native-paper
+```
+### 스마트폰을 통한 실행 확인
+```
+- expo 앱 설치 후 QR코드를 통해 자신의 폰에서도 동작 확인 가능
+- 코드 수정 시 실시간으로 변경
 ```
